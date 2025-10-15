@@ -55,7 +55,7 @@ print(result)
 ### Run the Interactive Assistant
 
 ```bash
-uv run python coding_assistant.py
+uv run python main.py
 ```
 
 ### Examples
